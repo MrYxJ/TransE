@@ -1,6 +1,5 @@
 import numpy as np
 import scipy
-from scipy import io
 import time
 
 def get_hits(vec, test_pair, top_k=(1, 10, 50, 100)):
