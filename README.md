@@ -1,4 +1,5 @@
 # TransE
+[Paper](http://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf)
 
 ## Data
 在```/data/```目录下有训练集和测试集不同划分比例的两个数据集```0_1```和```_0_5```，具体说明见该目录下```README.md```。
